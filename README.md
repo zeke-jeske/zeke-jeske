@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @zeke-jeske!
-- 🌱 I’m currently learning: Back-end web development with Node.js
-- 💞️ I’m looking to collaborate on: Anything, really
-- 📫 How to reach me: Fill out the contact form on [my website](https://zeke-jeske.netlify.app)!
+
